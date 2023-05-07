@@ -1,4 +1,5 @@
 ##grflangid 0x01
-STR_GRF_NAME							:OpenGFX 'ExtraZoom' - Landscape
-STR_GRF_DESCRIPTION						:{ORANGE}OpenGFX 'ExtraZoom' - Landscape{}{BLACK}Extra zoom level graphics for the OpenGFX style landscape, including grass, coasts, smooth snow transitions and infrastructure involving ground tiles.{}{BLACK}Graphics: {SILVER}Zephyris{}{BLACK}Programming: {SILVER}Zephyris
+STR_GRF_NAME							:OpenGFX 'ExtraZoom' - Landscape ALPINE MOD
+STR_GRF_DESCRIPTION						:{ORANGE}OpenGFX 'ExtraZoom' - Landscape{}{BLACK}Extra zoom level graphics for the OpenGFX style landscape, including grass, coasts, smooth snow transitions and infrastructure involving ground tiles.{}{BLACK}Graphics: {SILVER}Zephyris{}{BLACK}Programming: {SILVER}Zephyris{}{BLACK}Alpine Mod: {RED}reldred
 STR_GRF_URL								:
+STR_UNSUPPORTED_VERSION :needs new jgrpp dickhead
